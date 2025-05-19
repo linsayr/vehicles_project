@@ -1,0 +1,6 @@
+# Ignorar entorno virtual y otros archivos innecesarios
+.venv/
+vehicles_env/
+__pycache__/
+.ipynb_checkpoints/
+
